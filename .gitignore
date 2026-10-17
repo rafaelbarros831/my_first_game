@@ -1,0 +1,9 @@
+# Arquivos de Build e do Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.pdb
+*.ipch
+*.ilk
+*.exe
